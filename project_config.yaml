@@ -1,5 +1,5 @@
 metadata:
-        sample_table: LOLAHema_samples.csv
+        sample_table: LOLAHema_samples_test.csv
         output_dir: $HOME 
 
 derived_attributes: [file_path]
