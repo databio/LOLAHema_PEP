@@ -1,0 +1,111 @@
+sample_name, genome, protocol, description, file_path, cell_type, tissue, antibody, treatment, data_source 
+GSE105587_ENCFF018NNF_conservative_idr_thresholded_peaks_GRCh38.bed.gz,hg38,ChiPseq ,IKZF1 ChIP-seq on human GM12878,source1,GM12878,NA,IKZF1,None,GSE105587
+GSE105587_ENCFF161QAS_peaks_GRCh38.bed.gz,hg38,ChiPseq ,IKZF1 ChIP-seq on human GM12878,source1,GM12878,NA,IKZF1,None,GSE105587
+GSE105977_ENCFF617QGK_optimal_idr_thresholded_peaks_GRCh38.bed.gz,hg38,ChiPseq ,HEK293 cell line stably expressing N-terminal tagged eGFP-GLI2 under the control of a CMV promoter,source1,HEK293,NA,GLI2,None,GSE105977
+GSE105977_ENCFF793SZW_conservative_idr_thresholded_peaks_GRCh38.bed.gz,hg38,ChiPseq ,HEK293 cell line stably expressing N-terminal tagged eGFP-GLI2 under the control of a CMV promoter,source1,HEK293,NA,GLI2,None,GSE105977
+GSE105977_ENCFF937CGY_peaks_GRCh38.bed.gz ,hg38,ChiPseq ,HEK293 cell line stably expressing N-terminal tagged eGFP-GLI2 under the control of a CMV promoter,source1,HEK293,NA,GLI2,None,GSE105977
+GSE91663_ENCFF316ASR_peaks_GRCh38.bed.gz,hg38,ChiPseq,ZEB2 ChIP-seq on human K562 (ENCODE),source1, K562,Lung , ZEB2,None,GSE91663 
+GSE91663_ENCFF319TPR_conservative_idr_thresholded_peaks_GRCh38.bed.gz,hg38,ChiPseq,ZEB2 ChIP-seq on human K562 (ENCODE),source1, K562, Lung, ZEB2,None,GSE91663
+GSE91663_ENCFF553KIK_optimal_idr_thresholded_peaks_GRCh38.bed.gz,hg38,ChiPseq,ZEB2 ChIP-seq on human K562 (ENCODE),source1, K562, Lung, ZEB2,None,GSE91663
+GSM2423312_ENCFF155HVK_peaks_GRCh38.bed.gz,hg38,ChiPseq,K562 established from pleural effusion of 53 year old female with chronic myelogenous leukemia,source1, K562,Lung, ZEB2,None,GSM2423312
+GSM2423313_ENCFF722AOG_peaks_GRCh38.bed.gz,hg38,ChiPseq,K562 established from pleural effusion of 53 year old female with chronic myelogenous leukemia,source1, K562,Lung, ZEB2,None,GSM2423313
+GSM2827349_ENCFF196DNQ_peaks_GRCh38.bed.gz,hg38,ChiPseq,IKZF1 ChIP-seq on human GM12878,source1,GM12878,NA,IKZF1,None,GSM2827349
+GSM2827350_ENCFF928JXU_peaks_GRCh38.bed.gz,hg38,ChiPseq,IKZF1 ChIP-seq on human GM12878,source1,GM12878,NA,IKZF1,None,GSM2827350
+GSM2828856_ENCFF275MZN_peaks_GRCh38.bed.gz,hg38,ChiPseq,eGFP-GLI2 ChIP-seq on human HEK293 cells,source1,HEK293,NA,GLI2,None,GSM2828856
+GSM2828857_ENCFF323MNK_peaks_GRCh38.bed.gz,hg38,ChiPseq,eGFP-GLI2 ChIP-seq on human HEK293 cells,source1,HEK293,NA,GLI2,None,GSM2828857
+GSM3316846_AML_P1_Dx_H3K27ac_peaks.narrowPeak.gz,hg38,ChiPseq ,acute myeloid leukemia initial diagnosis,source1,NA,Bone marrow,H3K27ac,None,GSM3316846
+GSM3316847_AML_P2_Dx_H3K27ac_peaks.narrowPeak.gz,hg38,ChiPseq ,acute myeloid leukemia initial diagnosis,source1,NA,Bone marrow,H3K27ac,None,GSM3316847
+GSM3316848_AML_P3_Dx_H3K27ac_peaks.narrowPeak.gz,hg38,ChiPseq ,acute myeloid leukemia initial diagnosis,source1,NA,Peripheral blood,H3K27ac,None,GSM3316848
+GSM3316849_AML_P4_Dx_H3K27ac_peaks.narrowPeak.gz ,hg38,ChiPseq ,acute myeloid leukemia initial diagnosis,source1,NA,Bone marrow,H3K27ac,None,GSM3316849
+GSM3316850_AML_P5_Dx_H3K27ac_peaks.narrowPeak.gz,hg38,ChiPseq ,acute myeloid leukemia initial diagnosis,source1,NA,Bone marrow,H3K27ac,None,GSM3316850
+GSM3316851_AML_P6_Dx_H3K27ac_peaks.narrowPeak.gz,hg38,ChiPseq ,acute myeloid leukemia initial diagnosis,source1,NA,Bone marrow,H3K27ac,None,GSM3316851
+GSM3316852_AML_P7_Dx_H3K27ac_peaks.narrowPeak.gz,hg38,ChiPseq ,acute myeloid leukemia initial diagnosis,source1,NA,Bone marrow,H3K27ac,None,GSM3316852
+GSM3316853_AML_P8_Dx_H3K27ac_peaks.narrowPeak.gz,hg38,ChiPseq ,acute myeloid leukemia initial diagnosis,source1,NA,Bone marrow,H3K27ac,None,GSM3316853
+GSM3316854_AML_P9_Dx_H3K27ac_peaks.narrowPeak.gz,hg38,ChiPseq ,acute myeloid leukemia initial diagnosis,source1,NA,Peripheral blood,H3K27ac,None,GSM3316854
+GSM3316855_AML_P10_Dx_H3K27ac_peaks.narrowPeak.gz,hg38,ChiPseq ,acute myeloid leukemia initial diagnosis,source1,NA,Peripheral blood,H3K27ac,None,GSM3316855
+ GSM3316856_AML_P11_Dx_H3K27ac_peaks.narrowPeak.gz,hg38,ChiPseq ,acute myeloid leukemia initial diagnosis,source1,NA,Peripheral blood,H3K27ac,None,GSM3316856
+ GSM3316857_AML_P12_Dx_H3K27ac_peaks.narrowPeak.gz,hg38,ChiPseq ,acute myeloid leukemia initial diagnosis,source1,NA,Bone marrow,H3K27ac,None,GSM3316857
+GSM3316858_AML_P13_Dx_H3K27ac_peaks.narrowPeak.gz,hg38,ChiPseq ,acute myeloid leukemia initial diagnosis,source1,NA,Bone marrow,H3K27ac,None,GSM3316858
+ GSM3316859_AML_P14_Dx_H3K27ac_peaks.narrowPeak.gz,hg38,ChiPseq ,acute myeloid leukemia initial diagnosis,source1,NA,Peripheral blood,H3K27ac,None,GSM3316859
+ GSM3316860_AML_P15_Dx_H3K27ac_peaks.narrowPeak.gz,hg38,ChiPseq ,acute myeloid leukemia initial diagnosis,source1,NA,Bone marrow,H3K27ac,None,GSM3316860
+GSM3316861_AML_P16_Dx_H3K27ac_peaks.narrowPeak.gz,hg38,ChiPseq ,acute myeloid leukemia initial diagnosis,source1,NA,Bone marrow,H3K27ac,None,GSM3316861
+GSM3316862_AML_P16_Rel_H3K27ac_peaks.narrowPeak.gz,hg38,ChiPseq,acute myeloid leukemia relapse ,source1,NA,Bone marrow,H3K27ac,None,GSM3316862
+GSM3316863_AML_P17_Dx_H3K27ac_peaks.narrowPeak.gz,hg38,ChiPseq ,acute myeloid leukemia initial diagnosis,source1,NA,Bone marrow,H3K27ac,None,GSM3316863
+GSM3316864_AML_P18_Dx_H3K27ac_peaks.narrowPeak.gz,hg38,ChiPseq ,acute myeloid leukemia initial diagnosis,source1,NA,Bone marrow,H3K27ac,None,GSM3316864
+GSM3316865_AML_P19_Rel_H3K27ac_peaks.narrowPeak.gz,hg38,ChiPseq,acute myeloid leukemia relapse ,source1,NA,Bone marrow,H3K27ac,None,GSM3316865
+GSM3316866_AML_P20_Dx_H3K27ac_peaks.narrowPeak.gz,hg38,ChiPseq ,acute myeloid leukemia initial diagnosis,source1,NA,Bone marrow,H3K27ac,None,GSM3316866
+GSM3316867_AML_P20_Rel_H3K27ac_peaks.narrowPeak.gz,hg38,ChiPseq,acute myeloid leukemia relapse ,source1,NA,Bone marrow,H3K27ac,None,GSM3316867
+ GSM3316868_AML_P21_Dx_H3K27ac_peaks.narrowPeak.gz,hg38,ChiPseq ,acute myeloid leukemia initial diagnosis,source1,NA,Peripheral blood,H3K27ac,None,GSM3316868
+ GSM3316869_AML_P21_Rel_H3K27ac_peaks.narrowPeak.gz,hg38,ChiPseq ,acute myeloid leukemia relapse ,source1,NA,Peripheral blood,H3K27ac,None,GSM3316869
+GSM3316870_AML_P22_Dx_H3K27ac_peaks.narrowPeak.gz,hg38,ChiPseq ,acute myeloid leukemia initial diagnosis,source1,NA,Peripheral blood,H3K27ac,None,GSM3316870
+ GSM3316871_AML_P22_Rel_H3K27ac_peaks.narrowPeak.gz,hg38,ChiPseq,acute myeloid leukemia relapse ,source1,NA,Bone marrow,H3K27ac,None,GSM3316871
+GSM3316872_AML_P23_Dx_H3K27ac_peaks.narrowPeak.gz,hg38,ChiPseq ,acute myeloid leukemia initial diagnosis,source1,NA,Bone marrow,H3K27ac,None,GSM3316872
+GSM3316873_AML_P23_Rel_H3K27ac_peaks.narrowPeak.gz,hg38,ChiPseq,acute myeloid leukemia relapse ,source1,NA,Bone marrow,H3K27ac,None,GSM3316873
+GSM3316874_AML_P24_Dx_H3K27ac_peaks.narrowPeak.gz,hg38,ChiPseq ,acute myeloid leukemia initial diagnosis,source1,NA,Bone marrow,H3K27ac,None,GSM3316874
+ GSM3316875_AML_P24_Rel_H3K27ac_peaks.narrowPeak.gz,hg38,ChiPseq,acute myeloid leukemia relapse ,source1,NA,Bone marrow,H3K27ac,None,GSM3316875
+GSM3316876_AML_P25_Dx_H3K27ac_peaks.narrowPeak.gz,hg38,ChiPseq ,acute myeloid leukemia initial diagnosis,source1,NA,Peripheral blood,H3K27ac,None,GSM3316876
+GSM3316877_AML_P25_Rel_H3K27ac_peaks.narrowPeak.gz,hg38,ChiPseq ,acute myeloid leukemia relapse ,source1,NA,Peripheral blood,H3K27ac,None,GSM3316877
+GSM3316878_AML_P26_Dx_H3K27ac_peaks.narrowPeak.gz,hg38,ChiPseq ,acute myeloid leukemia initial diagnosis,source1,NA,Bone marrow,H3K27ac,None,GSM3316878
+ GSM3316879_AML_P26_Rel_H3K27ac_peaks.narrowPeak.gz,hg38,ChiPseq,acute myeloid leukemia relapse ,source1,NA,Bone marrow,H3K27ac,None,GSM3316879
+GSM3316880_AML_P27_Dx_H3K27ac_peaks.narrowPeak.gz,hg38,ChiPseq ,acute myeloid leukemia initial diagnosis,source1,NA,Bone marrow,H3K27ac,None,GSM3316880
+GSM3316881_AML_P27_Rel_H3K27ac_peaks.narrowPeak.gz,hg38,ChiPseq,acute myeloid leukemia relapse ,source1,NA,Bone marrow,H3K27ac,None,GSM3316881
+GSE105587_ENCFF413ANK_peaks_hg19.bed.gz,hg19,ChiPseq,IKZF1 ChIP-seq on human GM12878,source1,GM12878,NA,IKZF1,None,GSE105587
+GSE105587_ENCFF809OOE_conservative_idr_thresholded_peaks_hg19.bed.gz,hg19,ChiPseq,IKZF1 ChIP-seq on human GM12878,source1,GM12878,NA,IKZF1,None,GSE105587
+GSE105977_ENCFF449EZT_optimal_idr_thresholded_peaks_hg19.bed.gz,hg19,ChiPseq ,HEK293 cell line stably expressing N-terminal tagged eGFP-GLI2 under the control of a CMV promoter,source1,HEK293,NA,GLI2,None,GSE105977
+GSE105977_ENCFF634NTU_peaks_hg19.bed.gz ,hg19,ChiPseq ,HEK293 cell line stably expressing N-terminal tagged eGFP-GLI2 under the control of a CMV promoter,source1,HEK293,NA,GLI2,None,GSE105977
+GSE105977_ENCFF767YXX_conservative_idr_thresholded_peaks_hg19.bed.gz,hg19,ChiPseq ,HEK293 cell line stably expressing N-terminal tagged eGFP-GLI2 under the control of a CMV promoter,source1,HEK293,NA,GLI2,None,GSE105977
+GSE73207_rad21_mut_gata2_merge_peaks.narrowPeak.gz,hg19,ChiPseq ,Chip-Seq in erythroleukemia cells transduced with vector expression of RAD21 after 6 days DOX induction,source1,TF1,NA,GATA2,RAD21 Q592*,GSE73207
+GSE73207_rad21_mut_runx1_merge_peaks.narrowPeak.gz,hg19,ChiPseq ,Chip-Seq in erythroleukemia cells transduced with vector expression of RAD21 after 6 days DOX induction,source1,TF1,NA,RUNX1,RAD21 Q592*,GSE73207
+GSE73207_rad21_mut_smc3_merge_peaks.narrowPeak.gz,hg19,ChiPseq ,Chip-Seq in erythroleukemia cells transduced with vector expression of RAD21 after 6 days DOX induction,source1,TF1,NA,SMC3,RAD21 Q592*,GSE73207
+GSE73207_rad21_wt_gata2_merge_peaks.narrowPeak.gz,hg19,ChiPseq ,Chip-Seq in erythroleukemia cells transduced with vector expression of RAD21 after 6 days DOX induction,source1,TF1,NA,GATA2,RAD21 WT,GSE73207
+GSE73207_rad21_wt_runx1_merge_peaks.narrowPeak.gz,hg19,ChiPseq ,Chip-Seq in erythroleukemia cells transduced with vector expression of RAD21 after 6 days DOX induction,source1,TF1,NA,RUNX1,RAD21 WT,GSE73207
+GSE73207_rad21_wt_smc3_merge_peaks.narrowPeak.gz,hg19,ChiPseq ,Chip-Seq in erythroleukemia cells transduced with vector expression of RAD21 after 6 days DOX induction,source1,TF1 ,NA,SMC3,RAD21 WT,GSE73207
+GSE91663_ENCFF407AOX_optimal_idr_thresholded_peaks_hg19.bed.gz,hg19,ChiPseq,ZEB2 ChIP-seq on human K562 (ENCODE),source1, K562,Lung , ZEB2,None,GSE91663 
+GSE91663_ENCFF568FLE_conservative_idr_thresholded_peaks_hg19.bed.gz,hg19,ChiPseq,ZEB2 ChIP-seq on human K562 (ENCODE),source1, K562, Lung, ZEB2,None,GSE91663
+GSE91663_ENCFF846MNB_peaks_hg19.bed.gz ,hg19,ChiPseq,ZEB2 ChIP-seq on human K562 (ENCODE),source1, K562, Lung, ZEB2,None,GSE91663
+GSM1097879_CD34_ERG_ChIP-seq.bed.gz,hg19,ChiPseq,"combinatorial binding by 7 transcription factors, 1 IgG control, mRNA and small RNA seq in CD34+ cells",source1,CD34+,Bone marrow,ERG,None ,GSM1097879
+GSM1097880_CD34_FLI1_ChIP-seq.bed.gz,hg19,ChiPseq,"combinatorial binding by 7 transcription factors, 1 IgG control, mRNA and small RNA seq in CD34+ cells",source1,CD34+,Bone marrow,FLI1,None,GSM1097880
+GSM1097881_CD34_SCL_ChIP-seq.bed.gz,hg19,ChiPseq,"combinatorial binding by 7 transcription factors, 1 IgG control, mRNA and small RNA seq in CD34+ cells",source1,CD34+,Bone marrow,SCL,None,GSM1097881
+GSM1097882_CD34_LYL1_ChIP-seq.bed.gz,hg19,ChiPseq,"combinatorial binding by 7 transcription factors, 1 IgG control, mRNA and small RNA seq in CD34+ cells",source1,CD34+,Bone marrow,LYL1,None,GSM1097882
+GSM1097883_CD34_GATA2_ChIP-seq.bed.gz,hg19,ChiPseq,"combinatorial binding by 7 transcription factors, 1 IgG control, mRNA and small RNA seq in CD34+ cells",source1,CD34+,Bone marrow,GATA2,None,GSM1097883
+GSM1097884_CD34_RUNX1_ChIP-seq.bed.gz,hg19,ChiPseq,"combinatorial binding by 7 transcription factors, 1 IgG control, mRNA and small RNA seq in CD34+ cells",source1,CD34+,Bone marrow,RUNX1,None,GSM1097884
+ GSM1097885_CD34_LMO2_ChIP-seq.bed.gz,hg19,ChiPseq,"combinatorial binding by 7 transcription factors, 1 IgG control, mRNA and small RNA seq in CD34+ cells",source1,CD34+,Bone marrow,LMO2,None,GSM1097885
+GSM1097886_CD34_IgG_ChIP-seq.bed.gz,hg19,ChiPseq,"combinatorial binding by 7 transcription factors, 1 IgG control, mRNA and small RNA seq in CD34+ cells",source1,CD34+,Bone marrow,IgG,None,GSM1097886
+GSM1975005_s_3_hg19_peaks.bed.gz,hg19,ChiPseq,leukemia cell line; A Trithorax-group (TrxG) protein ASH1 selectively dimethylates H3K36,source1,K562,NA,ASH1,None,GSM1975005
+GSM1975006_s_4_hg19_peaks.bed.gz,hg19,ChiPseq,leukemia cell line; A Trithorax-group (TrxG) protein ASH1 selectively dimethylates H3K36,source1,K562,NA,ASH1,None,GSM1975006
+GSM2410096_control_H3K4me3_rep1.bed.gz,hg19,ChiPseq,ChIP-Seq from human Ik6+ BCR-ABL1+ pre-B ALL cells following DOX induction of IK1,source1,Pre-B ALL,NA,H3K4me3,DOX(48h)_empty vector,GSM2410096
+GSM2410097_control_H3K4me3_rep2.bed.gz,hg19,ChiPseq,ChIP-Seq from human Ik6+ BCR-ABL1+ pre-B ALL cells following DOX induction of IK1,source1,Pre-B ALL,NA,H3K4me3,DOX(48h)_empty vector,GSM2410097
+GSM2410098_Ik1_H3K4me3_rep1.bed.gz,hg19 ,ChiPseq,ChIP-Seq from human Ik6+ BCR-ABL1+ pre-B ALL cells following DOX induction of IK1,source1,Pre-B ALL,NA,H3K4me4,DOX(48h)_IK1,GSM2410098
+GSM2410099_Ik1_H3K4me3_rep2.bed.gz,hg19 ,ChiPseq,ChIP-Seq from human Ik6+ BCR-ABL1+ pre-B ALL cells following DOX induction of IK1,source1,Pre-B ALL,NA,H3K4me4,DOX(48h)_IK1,GSM2410099
+GSM2410100_control_H3K27ac_rep1.bed.gz,hg19 ,ChiPseq,ChIP-Seq from human Ik6+ BCR-ABL1+ pre-B ALL cells following DOX induction of IK1,source1,Pre-B ALL,NA,H3K27ac,DOX(48h)_empty vector,GSM2410100
+GSM2410101_control_H3K27ac_rep2.bed.gz,hg19 ,ChiPseq,ChIP-Seq from human Ik6+ BCR-ABL1+ pre-B ALL cells following DOX induction of IK1,source1,Pre-B ALL,NA,H3K27ac,DOX(48h)_empty vector,GSM2410101
+GSM2410102_Ik1_H3K27ac_rep1.bed.gz,hg19 ,ChiPseq,ChIP-Seq from human Ik6+ BCR-ABL1+ pre-B ALL cells following DOX induction of IK1,source1,Pre-B ALL,NA,H3K27ac,DOX(48h)_IK1,GSM2410102
+GSM2410103_Ik1_H3K27ac_rep2.bed.gz,hg19 ,ChiPseq,ChIP-Seq from human Ik6+ BCR-ABL1+ pre-B ALL cells following DOX induction of IK1,source1,Pre-B ALL,NA,H3K27ac,DOX(48h)_IK1,GSM2410103
+ GSM2423312_ENCFF295KFV_peaks_hg19.bed.gz,hg19,ChiPseq,"53 year old adult female with chronic myelogenous leukemia (CML), ENCODE  ",source1,K562,Lung,ZEB2,None,GSM2423312
+GSM2423313_ENCFF597MUA_peaks_hg19.bed.gz,hg19,ChiPseq,"53 year old adult female with chronic myelogenous leukemia (CML), ENCODE   ",source1,K562,Lung,ZEB2,None,GSM2423313
+ GSM2827349_ENCFF526LHJ_peaks_hg19.bed.gz,hg19,ChiPseq,IKZF1 ChIP-seq on human GM12878,source1,GM12878,NA,IKZF1,None ,GSM2827349
+GSM2827350_ENCFF963HCJ_peaks_hg19.bed.gz,hg19,ChiPseq,IKZF1 ChIP-seq on human GM12878,source1,GM12878,NA,IKZF1,None ,GSM2827350
+GSM2828856_ENCFF100WYT_peaks_hg19.bed.gz ,hg19,ChiPseq,HEK293 cell line stably expressing N-terminal tagged eGFP-GLI2 under the control of a CMV promoter,source1,HEK293,NA,GLI2,None,GSM2828856
+ GSM2828857_ENCFF641QDG_peaks_hg19.bed.gz,hg19,ChiPseq,HEK293 cell line stably expressing N-terminal tagged eGFP-GLI2 under the control of a CMV promoter,source1,HEK293,NA,GLI2,None,GSM2828857
+GSM3024901_O3_CD45_H3K27ac_peaks.bed.gz,hg19,ChiPseq,"Transcriptional and epigenetic changes upon relocalization or targeted degradation of NPM1c, AML",source1,OCI-AML3,NA,H3K27ac,sgCD45,GSM3024901
+ GSM3024902_O3_CD45_H3K27me3_peaks.bed.gz,hg19,ChiPseq,"Transcriptional and epigenetic changes upon relocalization or targeted degradation of NPM1c, AML",source1,OCI-AML3,NA,H3K27me3,sgCD45,GSM3024902
+GSM3024903_O3_CD45_H3K4me3_peaks.bed.gz,hg19,ChiPseq,"Transcriptional and epigenetic changes upon relocalization or targeted degradation of NPM1c, AML",source1,OCI-AML3,NA,H3K27me3,sgCD45,GSM3024903
+GSM3024904_O3_sg76_H3K27ac_peaks.bed.gz,hg19,ChiPseq,"Transcriptional and epigenetic changes upon relocalization or targeted degradation of NPM1c, AML",source1,OCI-AML3,NA,H3K27ac,sgNPM1c,GSM3024904
+GSM3024905_O3_sg76_H3K27me3_peaks.bed.gz,hg19,ChiPseq,"Transcriptional and epigenetic changes upon relocalization or targeted degradation of NPM1c, AML",source1,OCI-AML3,NA,H3K27me3,sgNPM1c,GSM3024905
+GSM3024906_O3_sg76_H3K4me3_peaks.bed.gz,hg19,ChiPseq,"Transcriptional and epigenetic changes upon relocalization or targeted degradation of NPM1c, AML",source1,OCI-AML3,NA,H3K4me3,sgNPM1c,GSM3024906
+ GSM3024907_IMS_CD45_H3K27ac_peaks.bed.gz,hg19,ChiPseq,"Transcriptional and epigenetic changes upon relocalization or targeted degradation of NPM1c, AML",source1,IMS-M2,NA,H3K27ac, sgCD45,GSM3024907
+GSM3024908_IMS_sg76_H3K27ac_peaks.bed.gz,hg19,ChiPseq,"Transcriptional and epigenetic changes upon relocalization or targeted degradation of NPM1c, AML",source1,IMS-M2,NA,H3K27ac,sgNPM1c,GSM3024908
+GSM3024909_O3_DMSO_H3K27ac_peaks.bed.gz,hg19,ChiPseq,"Transcriptional and epigenetic changes upon relocalization or targeted degradation of NPM1c, AML",source1,OCI-AML3,NA,H3K27ac,DMSO_0.05%,GSM3024909
+GSM3024910_O3_KPT_H3K27ac_peaks.bed.gz,hg19,ChiPseq,"Transcriptional and epigenetic changes upon relocalization or targeted degradation of NPM1c, AML",source1,OCI-AML3,NA,H3K27ac,Selinexor_100nM,GSM3024910
+GSM3024911_IMS_DMSO_H3K27ac_peaks.bed.gz,hg19,ChiPseq,"Transcriptional and epigenetic changes upon relocalization or targeted degradation of NPM1c, AML",source1,IMS-M2,NA,H3K27ac,DMSO_0.05%,GSM3024911
+GSM3024912_IMS_KPT_H3K27ac_peaks.bed.gz,hg19,ChiPseq,"Transcriptional and epigenetic changes upon relocalization or targeted degradation of NPM1c, AML",source1,IMS-M2,NA,H3K27ac,Selinexor_100nM,GSM3024912
+ GSM3024913_PDX_DMSO_H3K27ac_peaks.bed.gz,hg19,ChiPseq,"Transcriptional and epigenetic changes upon relocalization or targeted degradation of NPM1c, AML",source1, PDX2,patient_xenograft,H3K27ac,DMSO_0.05%,GSM3024913
+GSM3024914_PDX_KPT_H3K27ac_peaks.bed.gz,hg19,ChiPseq,"Transcriptional and epigenetic changes upon relocalization or targeted degradation of NPM1c, AML",source1, PDX2,patient_xenograft,H3K27ac,Selinexor_100nM,GSM3024914
+GSM3099679_WT-H3K4me3-ChIP-seq_peaks.bed.gz,hg19,ChiPseq,"Human-derived AML cells,  (CBS79) is critical for aberrant HOXA9-HOXA13 gene expression in AML",source1, MOLM13,NA,H3K4me3,None ,GSM3099679
+GSM3099680_CBS79KO-H3K4me3-ChIP-seq_peaks.bed.gz,hg19,ChiPseq,"Human-derived AML cells,  (CBS79) is critical for aberrant HOXA9-HOXA13 gene expression in AML",source1, MOLM13,NA,H3K4me3,CBS79KO,GSM3099680
+GSM3099681_WT-H3K27me3-ChIP-seq_peaks.bed.gz,hg19,ChiPseq,"Human-derived AML cells,  (CBS79) is critical for aberrant HOXA9-HOXA13 gene expression in AML",source1, MOLM13,NA,H3K27me3,None,GSM3099681
+GSM3099682_CBS79KO-H3K27me3-ChIP-seq_peaks.bed.gz,hg19,ChiPseq,"Human-derived AML cells,  (CBS79) is critical for aberrant HOXA9-HOXA13 gene expression in AML",source1, MOLM13,NA,H3K27me3,CBS79KO,GSM3099682
+GSM3099683_WT-H3K79me2-ChIP-seq_peaks.bed.gz,hg19,ChiPseq,"Human-derived AML cells,  (CBS79) is critical for aberrant HOXA9-HOXA13 gene expression in AML",source1, MOLM13,NA,H3K79me2,None,GSM3099683
+GSM3099684_CBS79KO-H3K79me2-ChIP-seq_peaks.bed.gz,hg19,ChiPseq,"Human-derived AML cells,  (CBS79) is critical for aberrant HOXA9-HOXA13 gene expression in AML",source1, MOLM13,NA,H3K79me2,CBS79KO,GSM3099684
+GSM744581_IkBa_map-hg18.bed.gz,hg18,ChiPseq,Examination of IkBalpha location in keratinocyte cells,source1,keratinocyte,Epidermis,IkBa,None,GSM744581
+GSM744581_IkBa_peaks.bed.gz,hg18,ChiPseq,Examination of IkBalpha location in keratinocyte cells,source1,keratinocyte,Epidermis,IkBa,None ,GSM744581
