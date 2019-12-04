@@ -191,3 +191,81 @@ AML_db198,GSM646392_HSMM_CTCF_rep1.bed.gz,hg18,ChiPseq,source1,HSMM,,CTCF,None,G
 AML_db199, GSM646393_HSMM_CTCF_rep2.bed.gz ,hg18,ChiPseq,source1,HSMM,,CTCF,None,GEO,GSE26320,GSM646393,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
 AML_db200,GSM646394_HSMM_H3K27ac_rep1.bed.gz,hg18,ChiPseq,source1,HSMM,,H3K27ac,None,GEO,GSE26320,GSM646394,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
 AML_db201, GSM646395_HSMM_H3K27ac_rep2.bed.gz,hg18,ChiPseq,source1,HSMM,,H3K27ac,None,GEO,GSE26320,GSM646395,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db202,GSM646396_HSMM_H3K27me3_rep1.bed.gz,hg18,ChiPseq,source1,HSMM,,H3K27me3,None,GEO,GSE26320,GSM646396,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db203,GSM646397_HSMM_H3K27me3_rep2.bed.gz,hg18,ChiPseq,source1,HSMM,,H3K27me3,None,GEO,GSE26320,GSM646397,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db204,GSM646398_HSMM_H3K36me3_rep1.bed.gz,hg18,ChiPseq,source1,HSMM,,H3K36me3,None,GEO,GSE26320,GSM646398,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db205,GSM646399_HSMM_H3K36me3_rep2.bed.gz,hg18,ChiPseq,source1,HSMM,,H3K36me3,None,GEO,GSE26320,GSM646399,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db206,GSM646400_HSMM_H3K4me1_rep1.bed.gz,hg18,ChiPseq,source1,HSMM,,H3K4me1,None,GEO,GSE26320,GSM646400,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db207,GSM646401_HSMM_H3K4me1_rep2.bed.gz,hg18,ChiPseq,source1,HSMM,,H3K4me1,None,GEO,GSE26320,GSM646401,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db208, GSM646402_HSMM_H3K4me2_rep1.bed.gz,hg18,ChiPseq,source1,HSMM,,H3K4me2,None,GEO,GSE26320,GSM646402,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db209,GSM646403_HSMM_H3K4me2_rep2.bed.gz,hg18,ChiPseq,source1,HSMM,,H3K4me2,None,GEO,GSE26320,GSM646403,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db210, GSM646404_HSMM_H3K4me3_rep1.bed.gz,hg18,ChiPseq,source1,HSMM,,H3K4me3,None,GEO,GSE26320,GSM646404,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db211,GSM646405_HSMM_H3K4me3_rep2.bed.gz,hg18,ChiPseq,source1,HSMM,,H3K4me3,None,GEO,GSE26320,GSM646405,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db212, GSM646406_HSMM_H3K9ac_rep1.bed.gz,hg18,ChiPseq,source1,HSMM,,H3K9ac,None,GEO,GSE26320,GSM646406,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db213,GSM646407_HSMM_H3K9ac_rep2.bed.gz,hg18,ChiPseq,source1,HSMM,,H3K9ac,None,GEO,GSE26320,GSM646407,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db214,GSM646408_HSMM_H4K20me1_rep1.bed.gz,hg18,ChiPseq,source1,HSMM,,H4K20me1,None,GEO,GSE26320,GSM646408,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db215,GSM646409_HSMM_H4K20me1_rep2.bed.gz,hg18,ChiPseq,source1,HSMM,,H4K20me1,None,GEO,GSE26320,GSM646409,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db216, GSM646410_HSMM_WCE_rep1.bed.gz ,hg18,ChiPseq,source1,HSMM,,None,None,GEO,GSE26320,GSM646410,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db217,GSM646411_HSMM_WCE_rep2.bed.gz,hg18,ChiPseq,source1,HSMM,,None,None,GEO,GSE26320,GSM646411,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db218,GSM646412_Huvec_CTCF_rep1.bed.gz,hg18,ChiPseq,source1,HUVEC,,CTCF,None,GEO,GSE26320,GSM646412,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db219, GSM646413_Huvec_CTCF_rep2.bed.gz,hg18,ChiPseq,source1,HUVEC,,CTCF,None,GEO,GSE26320,GSM646413,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db220, GSM646414_Huvec_H3K27ac_rep1.bed.gz,hg18,ChiPseq,source1,HUVEC,,H3K27ac,None,GEO,GSE26320,GSM646414,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db221,GSM646415_Huvec_H3K27ac_rep2.bed.gz,hg18,ChiPseq,source1,HUVEC,,H3K27ac,None,GEO,GSE26320,GSM646415,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db222,GSM646416_Huvec_H3K27me3_rep1.bed.gz,hg18,ChiPseq,source1,HUVEC,,H3K27me3,None,GEO,GSE26320,GSM646416,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db223,GSM646417_Huvec_H3K27me3_rep2.bed.gz,hg18,ChiPseq,source1,HUVEC,,H3K27me3,None,GEO,GSE26320,GSM646417,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db224,GSM646418_Huvec_H3K36me3_rep1.bed.gz,hg18,ChiPseq,source1,HUVEC,,H3K36me3,None,GEO,GSE26320,GSM646418,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db225, GSM646419_Huvec_H3K36me3_rep2.bed.gz,hg18,ChiPseq,source1,HUVEC,,H3K36me3,None,GEO,GSE26320,GSM646419,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db226,GSM646420_Huvec_H3K4me1_rep1.bed.gz,hg18,ChiPseq,source1,HUVEC,,H3K4me1,None,GEO,GSE26320,GSM646420,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db227,GSM646421_Huvec_H3K4me1_rep2.bed.gz,hg18,ChiPseq,source1,HUVEC,,H3K4me1,None,GEO,GSE26320,GSM646421,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db228,GSM646422_Huvec_H3K4me2_rep1.bed.gz,hg18,ChiPseq,source1,HUVEC,,H3K4me2,None,GEO,GSE26320,GSM646422,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db229,GSM646423_Huvec_H3K4me2_rep2.bed.gz,hg18,ChiPseq,source1,HUVEC,,H3K4me2,None,GEO,GSE26320,GSM646423,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db230,GSM646424_Huvec_H3K4me3_rep1.bed.gz,hg18,ChiPseq,source1,HUVEC,,H3K4me3,None,GEO,GSE26320,GSM646424,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db231,GSM646425_Huvec_H3K4me3_rep2.bed.gz ,hg18,ChiPseq,source1,HUVEC,,H3K4me3,None,GEO,GSE26320,GSM646425,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db232,GSM646426_Huvec_H3K9ac_rep1.bed.gz,hg18,ChiPseq,source1,HUVEC,,H3K9ac,None,GEO,GSE26320,GSM646426,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db233,GSM646427_Huvec_H3K9ac_rep2.bed.gz  ,hg18,ChiPseq,source1,HUVEC,,H3K9ac,None,GEO,GSE26320,GSM646427,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db234,GSM646428_Huvec_H4K20me1_rep1.bed.gz,hg18,ChiPseq,source1,HUVEC,,H4K20me1,None,GEO,GSE26320,GSM646428,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db235, GSM646429_Huvec_H4K20me1_rep2.bed.gz ,hg18,ChiPseq,source1,HUVEC,,H4K20me1,None,GEO,GSE26320,GSM646429,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db236,GSM646430_Huvec_WCE_rep1.bed.gz ,hg18,ChiPseq,source1,HUVEC,,None,None,GEO,GSE26320,GSM646430,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db237,GSM646431_Huvec_WCE_rep2.bed.gz,hg18,ChiPseq,source1,HUVEC,,None,None,GEO,GSE26320,GSM646431,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db238,GSM646432_K562_CTCF_rep1.bed.gz,hg18,ChiPseq,source1,K562,,CTCF,None,GEO,GSE26320,GSM646432,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db239,GSM646433_K562_CTCF_rep2.bed.gz,hg18,ChiPseq,source1,K562,,CTCF,None,GEO,GSE26320,GSM646433,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db240,GSM646434_K562_H3K27ac_rep1.bed.gz,hg18,ChiPseq,source1,K562,,H3K27ac,None,GEO,GSE26320,GSM646434,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db241,GSM646435_K562_H3K27ac_rep2.bed.gz,hg18,ChiPseq,source1,K562,,H3K27ac,None,GEO,GSE26320,GSM646435,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db242,GSM646436_K562_H3K27me3_rep1.bed.gz,hg18,ChiPseq,source1,K562,,H3K27me3,None,GEO,GSE26320,GSM646436,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db243,GSM646437_K562_H3K27me3_rep2.bed.gz,hg18,ChiPseq,source1,K562,,H3K27me3,None,GEO,GSE26320,GSM646437,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db244,GSM646438_K562_H3K36me3_rep1.bed.gz,hg18,ChiPseq,source1,K562,,H3K36me3,None,GEO,GSE26320,GSM646438,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db245,GSM646439_K562_H3K36me3_rep2.bed.gz,hg18,ChiPseq,source1,K562,,H3K36me3,None,GEO,GSE26320,GSM646439,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db246,GSM646440_K562_H3K4me1_rep1.bed.gz,hg18,ChiPseq,source1,K562,,H3K4me1,None,GEO,GSE26320,GSM646440,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db247,GSM646441_K562_H3K4me1_rep2.bed.gz,hg18,ChiPseq,source1,K562,,H3K4me1,None,GEO,GSE26320,GSM646441,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db248,GSM646442_K562_H3K4me2_rep1.bed.gz,hg18,ChiPseq,source1,K562,,H3K4me2,None,GEO,GSE26320,GSM646442,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db249,GSM646443_K562_H3K4me2_rep2.bed.gz,hg18,ChiPseq,source1,K562,,H3K4me2,None,GEO,GSE26320,GSM646443,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db250,GSM646444_K562_H3K4me3_rep1.bed.gz,hg18,ChiPseq,source1,K562,,H3K4me3,None,GEO,GSE26320,GSM646444,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db251,GSM646445_K562_H3K4me3_rep2.bed.gz,hg18,ChiPseq,source1,K562,,H3K4me3,None,GEO,GSE26320,GSM646445,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db252,GSM646446_K562_H3K9ac_rep1.bed.gz,hg18,ChiPseq,source1,K562,,H3K9ac,None,GEO,GSE26320,GSM646446,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db253,GSM646447_K562_H3K9ac_rep2.bed.gz,hg18,ChiPseq,source1,K562,,H3K9ac,None,GEO,GSE26320,GSM646447,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db254,GSM646448_K562_H3K9me3_rep1.bed.gz,hg18,ChiPseq,source1,K562,,H3K9me3,None,GEO,GSE26320,GSM646448,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db255,GSM646449_K562_H3K9me3_rep2.bed.gz,hg18,ChiPseq,source1,K562,,H3K9me3,None,GEO,GSE26320,GSM646449,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db256,GSM646450_K562_H4K20me1_rep1.bed.gz,hg18,ChiPseq,source1,K562,,H4K20me1,None,GEO,GSE26320,GSM646450,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db257,GSM646451_K562_H4K20me1_rep2.bed.gz,hg18,ChiPseq,source1,K562,,H4K20me1,None,GEO,GSE26320,GSM646451,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db258,GSM646452_K562_WCE_rep1.bed.gz,hg18,ChiPseq,source1,K562,,None,None,GEO,GSE26320,GSM646452,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db259,GSM646453_K562_WCE_rep2.bed.gz,hg18,ChiPseq,source1,K562,,None,None,GEO,GSE26320,GSM646453,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db260,GSM646454_NHEK_CTCF_rep1.bed.gz,hg18,ChiPseq,source1,NHEK,,CTCF,None,GEO,GSE26320,GSM646454,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db261,GSM646455_NHEK_CTCF_rep2.bed.gz,hg18,ChiPseq,source1,NHEK,,CTCF,None,GEO,GSE26320,GSM646455,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db262,GSM646456_NHEK_H3K27ac_rep1.bed.gz,hg18,ChiPseq,source1,NHEK,,H3K27ac,None,GEO,GSE26320,GSM646456,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db263,GSM646457_NHEK_H3K27ac_rep2.bed.gz,hg18,ChiPseq,source1,NHEK,,H3K27ac,None,GEO,GSE26320,GSM646457,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db264,GSM646458_NHEK_H3K27me3_rep1.bed.gz,hg18,ChiPseq,source1,NHEK,,H3K27me3,None,GEO,GSE26320,GSM646458,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db265,GSM646459_NHEK_H3K27me3_rep2.bed.gz,hg18,ChiPseq,source1,NHEK,,H3K27me3,None,GEO,GSE26320,GSM646459,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db266,GSM646460_NHEK_H3K36me3_rep1.bed.gz,hg18,ChiPseq,source1,NHEK,,H3K36me3,None,GEO,GSE26320,GSM646460,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db267,GSM646461_NHEK_H3K36me3_rep2.bed.gz,hg18,ChiPseq,source1,NHEK,,H3K36me3,None,GEO,GSE26320,GSM646461,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db268,GSM646462_NHEK_H3K4me1_rep1.bed.gz,hg18,ChiPseq,source1,NHEK,,H3K4me1,None,GEO,GSE26320,GSM646462,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db269,GSM646463_NHEK_H3K4me1_rep2.bed.gz,hg18,ChiPseq,source1,NHEK,,H3K4me1,None,GEO,GSE26320,GSM646463,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db270,GSM646464_NHEK_H3K4me2_rep1.bed.gz,hg18,ChiPseq,source1,NHEK,,H3K4me2,None,GEO,GSE26320,GSM646464,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db271, GSM646465_NHEK_H3K4me2_rep2.bed.gz,hg18,ChiPseq,source1,NHEK,,H3K4me2,None,GEO,GSE26320,GSM646465,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db272,GSM646466_NHEK_H3K4me3_rep1.bed.gz,hg18,ChiPseq,source1,NHEK,,H3K4me3,None,GEO,GSE26320,GSM646466,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db273, GSM646467_NHEK_H3K4me3_rep2.bed.gz,hg18,ChiPseq,source1,NHEK,,H3K4me3,None,GEO,GSE26320,GSM646467,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db274,GSM646468_NHEK_H3K9ac_rep1.bed.gz,hg18,ChiPseq,source1,NHEK,,H3K9ac,None,GEO,GSE26320,GSM646468,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db275,GSM646469_NHEK_H3K9ac_rep2.bed.gz,hg18,ChiPseq,source1,NHEK,,H3K9ac,None,GEO,GSE26320,GSM646469,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db276,GSM646470_NHEK_H4K20me1_rep1.bed.gz,hg18,ChiPseq,source1,NHEK,,H4K20me1,None,GEO,GSE26320,GSM646470,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db277,GSM646471_NHEK_H4K20me1_rep2.bed.gz,hg18,ChiPseq,source1,NHEK,,H4K20me1,None,GEO,GSE26320,GSM646471,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db278,GSM646472_NHEK_WCE_rep1.bed.gz,hg18,ChiPseq,source1,NHEK,,None,None,GEO,GSE26320,GSM646472,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
+AML_db279,GSM646473_NHEK_WCE_rep2.bed.gz,hg18,ChiPseq,source1,NHEK,,None,None,GEO,GSE26320,GSM646473,Mapping and analysis of chromatin state dynamics in nine human cell types,bed
