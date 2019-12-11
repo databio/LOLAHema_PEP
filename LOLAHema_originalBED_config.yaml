@@ -1,0 +1,7 @@
+metadata:
+        sample_table: LOLAHema_BEDsamples.csv
+        output_dir: $HOME 
+
+derived_attributes: [file_path]
+data_sources: 
+        source1: /project/shefflab/resources/regions/LOLAHema/{genome}/AML_{protocol}/regions/{file_name}  
