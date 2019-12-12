@@ -1,4 +1,4 @@
-sample_name ,file_name, genome, protocol, file_path, cell_type, tissue, antibody, treatment, data_source ,GSE ,GSM , description,format
+sample_name ,filename, genome, collection, file_path, cellType, tissue, antibody, treatment, dataSource ,GSE ,GSM , description,format
 AML_db1,GSE105587_ENCFF018NNF_conservative_idr_thresholded_peaks_GRCh38.bed.gz,hg38,ChiPseq ,source1,GM12878,,IKZF1,None,GEO,GSE105587,,IKZF1 ChIP-seq on human GM12878,bed
 AML_db2,GSE105587_ENCFF161QAS_peaks_GRCh38.bed.gz,hg38,ChiPseq ,source1,GM12878,,IKZF1,None,GEO,GSE105587,,IKZF1 ChIP-seq on human GM12878,bed
 AML_db3,GSE105977_ENCFF617QGK_optimal_idr_thresholded_peaks_GRCh38.bed.gz,hg38,ChiPseq ,source1,HEK293,,GLI2,None,GEO,GSE105977,,HEK293 cell line stably expressing N-terminal tagged eGFP-GLI2 under the control of a CMV promoter,bed
