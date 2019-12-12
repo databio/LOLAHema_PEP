@@ -1,0 +1,13 @@
+metadata:
+  sample_table: LOLAHema_samples.csv
+  output_dir: $HOME 
+  pipeline_interfaces: ../pipeline_interface.yaml
+
+constant_attributes:
+  file_path: "source" 
+
+derived_attributes: [file_name, file_path, nonBED_path]
+data_sources:
+  source: /project/shefflab/resources/regions/LOLAHema/{genome}/AML_{exp_protocol}/{file_name}
+  source2: /project/shefflab/resources/regions/LOLAHema/{genome}/AML_{exp_protocol}/{original_file_name} 
+  target_file_name: "{original_file_name}.bed"
