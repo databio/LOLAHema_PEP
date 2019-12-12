@@ -4,4 +4,4 @@ metadata:
 
 derived_attributes: [file_path]
 data_sources: 
-        source1: /project/shefflab/resources/regions/LOLAHema/{genome}/AML_{protocol}/regions/{filename}  
+        source1: /project/shefflab/resources/regions/LOLAHema/{genome}/AML_{collection}/regions/{filename}  
