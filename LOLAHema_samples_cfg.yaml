@@ -10,6 +10,6 @@ constant_attributes:
 
 derived_attributes: [input_file_path, output_file_path]
 data_sources:
-  source: /project/shefflab/resources/regions/LOLAHema/{genome}/AML_{exp_protocol}_{format}/regions/{file_name}
-  source2: "/project/shefflab/resources/regions/LOLAHema/{genome}/output_BEDfiles/{sample_name}.bed.gz" 
+  source: $LABROOT/resources/regions/LOLAHema/{genome}/AML_{exp_protocol}_{format}/regions/{file_name}
+  source2: "$LABROOT/resources/regions/LOLAHema/{genome}/output_BEDfiles/{sample_name}.bed.gz" 
  
