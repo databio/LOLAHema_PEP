@@ -6,7 +6,37 @@ metadata:
 constant_attributes:
   input_file_path: "source" 
   output_file_path: "source2"
+  narrowpeak: 1
   protocol: "make_bed"
+
+implied_attributes:
+  antibody:
+    H3K27ac:
+      narrowpeak: 0
+    H3K4me3:
+      narrowpeak: 0 
+    H3K4me4:
+      narrowpeak: 0
+    H3K27me3:
+      narrowpeak: 0
+    H3K79me2:
+      narrowpeak: 0 
+    H3K4me1:
+      narrowpeak: 0 
+    H3K4me2:
+      narrowpeak: 0
+    H3K9ac:
+      narrowpeak: 0 
+    H4K20me1:
+      narrowpeak: 0
+    H3K36me3:
+      narrowpeak: 0 
+    H3K4me3:
+      narrowpeak: 0
+    H3K9K14ac:
+      narrowpeak: 0
+    H3K9me3:
+      narrowpeak: 0
 
 derived_attributes: [input_file_path, output_file_path]
 data_sources:
