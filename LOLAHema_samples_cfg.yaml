@@ -6,8 +6,9 @@ metadata:
 constant_attributes:
   input_file_path: "source" 
   output_file_path: "source2"
+  yaml_file: "source3"
   narrowpeak: 1
-  protocol: "make_bed"
+  protocol: "bedstat"
 
 implied_attributes:
   antibody:
@@ -31,15 +32,14 @@ implied_attributes:
       narrowpeak: 0
     H3K36me3:
       narrowpeak: 0 
-    H3K4me3:
-      narrowpeak: 0
     H3K9K14ac:
       narrowpeak: 0
     H3K9me3:
       narrowpeak: 0
 
-derived_attributes: [input_file_path, output_file_path]
+derived_attributes: [input_file_path, output_file_path, yaml_file]
 data_sources:
   source: $LABROOT/resources/regions/LOLAHema/{genome}/AML_{exp_protocol}_{format}/regions/{file_name}
   source2: "$LABROOT/resources/regions/LOLAHema/{genome}/output_BEDfiles/{sample_name}.bed.gz" 
+  source3: "$LOLAHema/submission/{sample_name}.yaml"
  
