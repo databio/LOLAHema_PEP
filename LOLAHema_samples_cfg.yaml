@@ -1,45 +1,32 @@
-metadata:
-  sample_table: LOLAHema_samples.csv
+pep_version: 2.0.0
+sample_table: LOLAHema_samples.csv
+  
+looper:
   output_dir: $LOLAHema 
-  pipeline_interfaces: ../pipeline_interface.yaml
+  
+sample_modifiers:
+  append:
+    pipeline_interfaces: ../pipeline_interface_new.yaml
+    input_file_path: "source" 
+    output_file_path: "source2"
+    yaml_file: "source3"
+    narrowpeak: 1
+    protocol: "bedstat"
 
-constant_attributes:
-  input_file_path: "source" 
-  output_file_path: "source2"
-  yaml_file: "source3"
-  narrowpeak: 1
-  protocol: "bedstat"
+    imply:
+      - if:
+          antibody: ["H3K27ac", "H3K4me3", "H3K4me4", "H3K27me3", "H3K79me2", "H3K4me1", "H3K4me2",
+                      "H3K9ac", "H4K20me1", "H3K36me3", "H3K9K14ac", "H3K9me3"]
+        then:
+          narrowpeak: 0
+    derive:
+      attributes: [input_file_path, output_file_path, yaml_file]
+      sources:
+        source: $LABROOT/resources/regions/LOLAHema/{genome}/AML_{exp_protocol}_{format}/regions/{file_name}
+        source2: "$LABROOT/resources/regions/LOLAHema/{genome}/output_BEDfiles/{sample_name}.bed.gz"
+        source3: "$LOLAHema/submission/{sample_name}.yaml"
 
-implied_attributes:
-  antibody:
-    H3K27ac:
-      narrowpeak: 0
-    H3K4me3:
-      narrowpeak: 0 
-    H3K4me4:
-      narrowpeak: 0
-    H3K27me3:
-      narrowpeak: 0
-    H3K79me2:
-      narrowpeak: 0 
-    H3K4me1:
-      narrowpeak: 0 
-    H3K4me2:
-      narrowpeak: 0
-    H3K9ac:
-      narrowpeak: 0 
-    H4K20me1:
-      narrowpeak: 0
-    H3K36me3:
-      narrowpeak: 0 
-    H3K9K14ac:
-      narrowpeak: 0
-    H3K9me3:
-      narrowpeak: 0
 
-derived_attributes: [input_file_path, output_file_path, yaml_file]
-data_sources:
-  source: $LABROOT/resources/regions/LOLAHema/{genome}/AML_{exp_protocol}_{format}/regions/{file_name}
-  source2: "$LABROOT/resources/regions/LOLAHema/{genome}/output_BEDfiles/{sample_name}.bed.gz" 
-  source3: "$LOLAHema/submission/{sample_name}.yaml"
+
+
  
