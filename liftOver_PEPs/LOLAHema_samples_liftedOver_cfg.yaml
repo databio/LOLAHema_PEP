@@ -1,0 +1,28 @@
+pep_version: 2.0.0
+sample_table: LOLAHema_samples_liftedOver.csv
+  
+looper:
+  output_dir: $LABROOT/resources/regions/bedstat_output/bedstat_pipeline_logs
+  
+sample_modifiers:
+  append:
+    pipeline_interfaces: ../pipeline_interface_new.yaml
+    input_file_path: "source" 
+    output_file_path: "source2"
+    yaml_file: "source3"
+    open_signal_matrix: "source4"
+    narrowpeak: 1
+    protocol: "bedstat"
+  imply:
+    - if:
+        antibody: ["H3K27ac", "H3K4me3", "H3K4me4", "H3K27me3", "H3K79me2", "H3K4me1", "H3K4me2",
+                      "H3K9ac", "H4K20me1", "H3K36me3", "H3K9K14ac", "H3K9me3"]
+      then:
+        narrowpeak: 0
+  derive:
+    attributes: [input_file_path, output_file_path, yaml_file,  open_signal_matrix]
+    sources:
+      source: $LABROOT/resources/regions/LOLAHema/{genome}/AML_{exp_protocol}_{format}/regions/{file_name}
+      source2: "$LABROOT/resources/regions/LOLAHema/{original_genome}/output_BEDfiles/liftover_bed_files/{sample_name}.bed.gz"
+      source3: "$LABROOT/resources/regions/bedstat_output/bedstat_pipeline_logs/submission/{sample_name}.yaml"
+      source4: "$LABROOT/resources/regions/LOLAHema/open_signal_matrices/openSignalMatrix_{genome}_quantileNormalized_round4.txt.gz"
